@@ -3,7 +3,7 @@ package ejerMobile;
 
 //Main?
 //Probamos la facade desde nuestro cliente.
-public class ClientFacadePatternExample {
+public class MainClientFacadePatternExample {
 	public static void main(String[] args) {
 
         MobileFacade facade = new MobileFacade();
